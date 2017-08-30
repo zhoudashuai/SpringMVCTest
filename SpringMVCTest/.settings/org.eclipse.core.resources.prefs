@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebRoot/statics/js=UTF-8
+encoding//WebRoot/statics/js/rollpage.js=UTF-8
+encoding//resources/database.properties=UTF-8
+encoding//src/cn/smbms/dao/BaseDao.java=UTF-8
+encoding//src/cn/smbms/dao/bill/BillDao.java=UTF-8
+encoding//src/cn/smbms/dao/provider/ProviderDao.java=UTF-8
+encoding//src/cn/smbms/pojo/Provider.java=UTF-8
+encoding//src/cn/smbms/pojo/User.java=UTF-8
+encoding//src/cn/smbms/service/bill/BillService.java=UTF-8
+encoding//src/cn/smbms/service/bill/BillServiceImpl.java=UTF-8
+encoding//src/cn/smbms/service/provider/ProviderService.java=UTF-8
+encoding//src/cn/smbms/service/provider/ProviderServiceImpl.java=UTF-8
